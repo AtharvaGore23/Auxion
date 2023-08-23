@@ -1,1 +1,1 @@
-It's and one page online shopping site only front end.
+https://cool-starlight-0da7e0.netlify.app/
